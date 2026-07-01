@@ -2,7 +2,7 @@
 
 # LeetCode Solutions
 
-A curated collection of my LeetCode solutions written in **C++**, documenting my journey in mastering **Data Structures & Algorithms** through consistent daily practice.
+Acurated collection of my LeetCode solutions written in **C++**, documenting my journey in mastering **Data Structures & Algorithms** through consistent daily practice.
 
 <p>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
