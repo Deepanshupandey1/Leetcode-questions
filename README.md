@@ -1,77 +1,53 @@
 <div align="center">
 
-# 🚀 LeetCode Solutions
+# LeetCode Solutions
 
-### Daily Problem Solving • Data Structures & Algorithms • C++
+A curated collection of my LeetCode solutions written in **C++**, documenting my journey in mastering **Data Structures & Algorithms** through consistent daily practice.
 
 <p>
-
-<img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Daily-Problem%20Solving-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/last-commit/Deepanshupandey1/Leetcode-questions?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/repo-size/Deepanshupandey1/Leetcode-questions?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black">
+<img src="https://img.shields.io/badge/Daily%20Practice-Active-success?style=flat-square">
+<img src="https://img.shields.io/github/last-commit/Deepanshupandey1/Leetcode-questions?style=flat-square">
 </p>
-
----
-
-### 💻 Preparing For
-
-**FAANG • Product-Based Companies • GATE CSE • Coding Interviews**
 
 </div>
 
 ---
 
-# 📖 About
+## Overview
 
-This repository documents my **daily LeetCode problem-solving journey** using **C++**.
+This repository contains my personal solutions to LeetCode problems solved in **C++**.
 
-The goal is to strengthen problem-solving skills, master Data Structures & Algorithms, and prepare for coding interviews through consistent practice.
+The primary objective is to improve problem-solving ability, strengthen algorithmic thinking, and prepare for coding interviews through consistent practice.
 
-Each solution focuses on writing clean, optimized, and interview-ready code.
+Each solution is written with emphasis on:
 
----
-
-# ✨ Highlights
-
-- 🚀 Daily Problem Solving
-- 💻 C++ Solutions
-- 🧠 Optimized Approaches
-- ⚡ Clean & Readable Code
-- 📈 Consistent Learning
-- 🎯 Interview Preparation
+- Clean and readable code
+- Optimized algorithms
+- Standard C++ implementation
+- Interview-oriented approach
 
 ---
 
-# 🎯 Goals
+## Current Focus
 
-- [ ] 100 Problems
-- [ ] 250 Problems
-- [ ] 500 Problems
-- [ ] 1000 Problems
+- Data Structures
+- Algorithms
+- Competitive Programming
+- Technical Interview Preparation
+- Daily Problem Solving
 
 ---
 
-# ⭐ Support
+## Philosophy
 
-If you find this repository helpful, consider giving it a ⭐.
-
-It motivates me to keep learning and sharing more solutions.
+> *"Consistency compounds. One problem every day is better than solving hundreds once a month."*
 
 ---
 
 <div align="center">
 
-### Happy Coding 🚀
-
-**Consistency > Perfection**
+⭐ If you find this repository useful, consider giving it a star.
 
 </div>
