@@ -16,37 +16,43 @@ A curated collection of my LeetCode solutions written in **C++**, documenting my
 
 ## Overview
 
-This repository contains my personal solutions to LeetCode problems solved in **C++**.
+## 📖 Overview
 
-The primary objective is to improve problem-solving ability, strengthen algorithmic thinking, and prepare for coding interviews through consistent practice.
+This repository contains my personal solutions to **LeetCode** problems solved in **C++**.
 
-Each solution is written with emphasis on:
+The primary objective is to improve problem-solving skills, strengthen algorithmic thinking, and prepare for coding interviews through consistent daily practice.
 
-- Clean and readable code
-- Optimized algorithms
-- Standard C++ implementation
-- Interview-oriented approach
+Each solution emphasizes:
 
----
-
-## Current Focus
-
-- Data Structures
-- Algorithms
-- Competitive Programming
-- Technical Interview Preparation
-- Daily Problem Solving
+- 💡 Clean and readable code
+- ⚡ Optimized algorithms
+- 🧩 Standard C++ implementation
+- 🎯 Interview-oriented approach
 
 ---
 
-## Philosophy
+## 🎯 Current Focus
 
-> *"Consistency compounds. One problem every day is better than solving hundreds once a month."*
+- 📚 Data Structures
+- 🧠 Algorithms
+- 🏁 Competitive Programming
+- 💼 Technical Interview Preparation
+- 🔥 Daily Problem Solving
+
+---
+
+## 💭 Philosophy
+
+> *"Consistency compounds. One problem every day is better than solving hundreds once a month."* 🚀
 
 ---
 
 <div align="center">
 
-⭐ If you find this repository useful, consider giving it a star.
+### ⭐ Enjoyed this repository?
+
+If you found it helpful, consider giving it a ⭐ to support my journey!
+
+**Happy Coding! 🚀**
 
 </div>
