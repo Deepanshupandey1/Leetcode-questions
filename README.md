@@ -8,7 +8,6 @@ A curated collection of my LeetCode solutions written in **C++**, documenting my
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black">
 <img src="https://img.shields.io/badge/Daily%20Practice-Active-success?style=flat-square">
-<img src="https://img.shields.io/github/last-commit/Deepanshupandey1/Leetcode-questions?style=flat-square">
 </p>
 
 </div>
