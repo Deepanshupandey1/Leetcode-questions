@@ -14,7 +14,6 @@ A curated collection of my LeetCode solutions written in **C++**, documenting my
 
 ---
 
-## Overview
 
 ## 📖 Overview
 
