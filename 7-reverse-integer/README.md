@@ -22,6 +22,7 @@
 <pre>
 <strong>Input:</strong> x = 120
 <strong>Output:</strong> 21
+	
 </pre>
 
 <p>&nbsp;</p>
