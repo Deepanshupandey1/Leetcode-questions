@@ -7,7 +7,6 @@ public:
         {
             return false;
         }
-
         int sum = 1;
 
         for (int i = 2; i * i <= num; i++)
